@@ -1,6 +1,6 @@
 # Airbnb-Clone
 
-This is a Airbnb-clone
+This is a Airbnb-clone and this app responsive.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
