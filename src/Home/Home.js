@@ -6,7 +6,6 @@ import Card from "./Card";
 function Home() {
   return (
     <div className="home">
-      <h1>Home componenets</h1>
       <Banner />
 
       <div className="home__section">
